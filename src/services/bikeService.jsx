@@ -27,7 +27,7 @@ export const bikesData = [
     power: "34 HP",
     speed: "143 km/h",
     color: "Sport Red",
-    image: "https://www.bmw-motorrad.in/en/models/modeloverview.html"
+    image: "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmlrZXN8ZW58MHx8MHx8fDA%3D"
   },
   {
     id: 4,
